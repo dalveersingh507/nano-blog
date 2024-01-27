@@ -1,0 +1,56 @@
+.redtextcolor {
+  color: rgb(211, 108, 108);
+}
+.date-textcolor {
+  color: rgb(119, 119, 119);
+}
+.white-text-color {
+  color: whitesmoke;
+}
+.black-text-color {
+  color: rgb(59, 57, 57);
+}
+.bg-color-red {
+  background-color: rgb(230, 102, 102);
+}
+.bg-color {
+  background-color: rgb(252, 238, 220);
+}
+.bg-color-white {
+  background-color: whitesmoke;
+}
+.button-bg-color {
+  background-color: ;
+}
+.md-button-bg-color {
+  background-color: ;
+}
+.xs-font-size {
+  font-size: 11px;
+}
+.sm-font-size {
+  font-size: 13px;
+}
+.md-font-size {
+  font-size: 20px;
+}
+.lg-font-size {
+  font-size: 20px;
+}
+
+.float-left {
+  float: left;
+  float: bottom;
+}
+.float-right {
+  float: right;
+}
+.font-weight {
+  font-weight: 700;
+}
+.border-radius {
+  border-radius: 22px;
+}
+.text-decoration-none {
+  text-decoration: none;
+}
