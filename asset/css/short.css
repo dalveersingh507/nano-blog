@@ -4,14 +4,15 @@
 .date-textcolor {
   color: rgb(119, 119, 119);
 }
-.white-text-color {
+.whitext-color {
   color: whitesmoke;
 }
+
 .black-text-color {
   color: rgb(59, 57, 57);
 }
 .bg-color-red {
-  background-color: rgb(230, 102, 102);
+  background-color: #d44761;
 }
 .bg-color {
   background-color: rgb(252, 238, 220);
@@ -20,10 +21,10 @@
   background-color: whitesmoke;
 }
 .button-bg-color {
-  background-color: ;
+  /* background-color:gainsboro ; */
 }
 .md-button-bg-color {
-  background-color: ;
+  /* background-color: ; */
 }
 .xs-font-size {
   font-size: 11px;
@@ -53,4 +54,28 @@
 }
 .text-decoration-none {
   text-decoration: none;
+}
+.read-more-button {
+  float: right;
+  overflow: hidden;
+  position: relative;
+  height: 35px;
+  background: linear-gradient(103deg, #fc6668 0%, #e10489 100%);
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 35px;
+  padding: 0 18px;
+  margin: 10px 0 10px;
+  border-radius: 8px;
+  transition: all 0.17s ease;
+  text-decoration: none;
+}
+.black-d {
+  color: black;
+}
+.text-center {
+  display: flex;
+  justify-content: center;
 }
