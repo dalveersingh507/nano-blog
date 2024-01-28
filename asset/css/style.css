@@ -116,3 +116,23 @@ body {
   background: #a4c639;
   color: white;
 }
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.item-button {
+  background-color: white;
+  padding: 6px;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+  /* margin: 11px 11px 11px 11px; */
+}
+.imem-button :hover {
+  background-color: rgb(221, 91, 91);
+}
