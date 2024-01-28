@@ -1,0 +1,81 @@
+.redtextcolor {
+  color: rgb(211, 108, 108);
+}
+.date-textcolor {
+  color: rgb(119, 119, 119);
+}
+.whitext-color {
+  color: whitesmoke;
+}
+
+.black-text-color {
+  color: rgb(59, 57, 57);
+}
+.bg-color-red {
+  background-color: #d44761;
+}
+.bg-color {
+  background-color: rgb(252, 238, 220);
+}
+.bg-color-white {
+  background-color: whitesmoke;
+}
+.button-bg-color {
+  /* background-color:gainsboro ; */
+}
+.md-button-bg-color {
+  /* background-color: ; */
+}
+.xs-font-size {
+  font-size: 11px;
+}
+.sm-font-size {
+  font-size: 13px;
+}
+.md-font-size {
+  font-size: 20px;
+}
+.lg-font-size {
+  font-size: 20px;
+}
+
+.float-left {
+  float: left;
+  float: bottom;
+}
+.float-right {
+  float: right;
+}
+.font-weight {
+  font-weight: 700;
+}
+.border-radius {
+  border-radius: 22px;
+}
+.text-decoration-none {
+  text-decoration: none;
+}
+.read-more-button {
+  float: right;
+  overflow: hidden;
+  position: relative;
+  height: 35px;
+  background: linear-gradient(103deg, #fc6668 0%, #e10489 100%);
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 35px;
+  padding: 0 18px;
+  margin: 10px 0 10px;
+  border-radius: 8px;
+  transition: all 0.17s ease;
+  text-decoration: none;
+}
+.black-d {
+  color: black;
+}
+.text-center {
+  display: flex;
+  justify-content: center;
+}

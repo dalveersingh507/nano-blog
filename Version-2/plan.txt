@@ -1,0 +1,23 @@
+Used Technologies in Nono Blog:
+  HTML, CSS, Bootstrap, JavaScript, jQuery, Fontawaysome
+
+Overview of Neno Blog:
+  It's blog which have own admin panel. And in frontend we have home page, blogs page, blog details page, categories page, tags page, about us page, contact us page, privacy policy, terms and conditions page.
+
+File Structure:
+asset
+  css
+    style.css
+  js
+    script.js
+  images
+    favicon.png
+    logo.png
+    loader.png
+index.html
+blogs.html
+blog-details.html
+about.html
+contact.html
+privacy-policy.html
+terms-conditions.html
